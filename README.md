@@ -1,5 +1,6 @@
 # smad4
-Code supporting Wood, Tong, Motta, et al., “SMAD4 mutations causing Myhre syndrome are under positive selection in the male germline”
+Code supporting Wood, Tong, Motta, _et al._, “SMAD4 mutations causing Myhre syndrome are under positive selection in the male germline”
+
 
 In this paper, a Restriction Enzyme Digest(RED)-PCR assay was performed on sperm and blood samples collected from a broad age range of anonymous donors. The raw data is available at the European Nucleotide Archive under BioProject accession [http://www.ebi.ac.uk/ena/data/view/PRJEB64495](http://www.ebi.ac.uk/ena/data/view/PRJEB64495). Mutation levels in the blood and sperm DNA within the NsiI restriction site (located at c.1494_1498 of SMAD4; cDNA RefSeq NM_005359.6) were derived using [Amplimap v0.4.20](https://github.com/koelling/amplimap/), as previously described in the [Pregcare paper](https://www.nature.com/articles/s41467-023-36606-w) and with code available [here](https://github.com/sjbush/pregcare/downsampling).
 
